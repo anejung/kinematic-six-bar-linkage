@@ -1,1 +1,1 @@
-kinematic diagram animation for six bar linkage 
+kinematic and orthographic animation for six bar linkage 
